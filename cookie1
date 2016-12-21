@@ -1,1 +1,71 @@
-# netflix
+[
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1513560424.591048,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "memclid",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "c82e689a-2876-4950-8de0-e85a44a552c6",
+    "id": 1
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1513581337.104925,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "NetflixId",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "ct%3DBQAOAAEBEKFIO3NG6XXoTWvDN4cRvSyB4IC2LSfc_H3dwB_6crrilzDd_r1VLsWq6hHinI8FgJFOai0uFm3huhhDIJz8Bg-wgXC0StjUOm35pbNhrNgmryBIkyKlayAqBj7W8Lu99fGBOuKIYy0lhgp0ajMp6HRyPWv1OgmQSXPI0HeVuXMR9T0wFaEi00TP3ManmVayW6hOz-Mso-0IiUytp6WAFMf473mz03LDrVBlfWo3ggbXYKfqNiYTBiToj2uRq9PuTwtgawj9V34mE9EUKHmxju7KM1QPjmK5VPE3Aqm_PWiUAJEt1me7MrWRPLIWhwRsOo_qolYLFxOaS-lgaqMQdrvwfzcJCsEcyk2haEB9wkvzz7LJSvCvP8rzsPrJxq0zQDrHuZ0QsVyiWncvBHbEGhhbfvaAt_-ebbtZwlC_PhBGiuf1fOJD8T-UASWOCsPDYQujkNyoIEL8US7ikQ7miPe6ifNNGO-lVgKPTDn9f_v4a7-1u5iBtLIGwAJ0dV7APP2lEr7DcGGxOmWAf7Ohib8aoaV9h6J2QZGUIw94Xq2ulslnkYpH2vW78A0INXCwHrwf55E3IlqOmfMeTegfNKTk2HSCIxD6le5QvzsF75BNCHi8UYJdaSqZKuskz799GaBNyQZLVS3W4YxxS6ScW3XYiw..%26bt%3Ddbl%26ch%3DAQEAEAABABQKAzLfAPpjZCuVScfafs2zS7sGSm7H_Ck.%26v%3D2%26mac%3DAQEAEAABABQKR550uix60wOkZwDyubKYNPMYMn8Nv-A.",
+    "id": 2
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 1513560411.105025,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "nfvdid",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": false,
+    "storeId": "0",
+    "value": "BQFmAAEBEAPCpHGChYht8zlNQHFcxx1gXGH%2FGaPqK7C4c50Hl6Olp307WHXxueqxxJVz6CQ7c0WTYz6mbVod612xfThAu%2FjcOBFU6pj%2FJO0tOx2q9MYp1FNrP37nCK0bLACLAKDpvvSA2YB%2FSJ9O4KUQps2ZlFHD",
+    "id": 3
+},
+{
+    "domain": ".netflix.com",
+    "expirationDate": 2145916783.10499,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "SecureNetflixId",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "v%3D2%26mac%3DAQEAEQABABRdgFlVbJv2oyH8eD3Zg0DXjAkrzWp40Jk.%26dt%3D1482024428758",
+    "id": 4
+},
+{
+    "domain": ".www.netflix.com",
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "cL",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": false,
+    "session": true,
+    "storeId": "0",
+    "value": "1482024405920%7C148202440340110552%7C148202440357758307%7C%7C14%7CAFFJW622FFFE5EEGABCZLMFKPY",
+    "id": 5
+}
+]
